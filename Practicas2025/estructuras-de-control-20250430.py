@@ -40,7 +40,8 @@
 # while True :
 #     print("sigo ejecutando ....")
 
-contador = 0
-while (contador != 6):
-    print("contador vale:", contador)
-    contador = contador + 1
+# contador = 0
+# while (contador != 6):
+#     print("contador vale:", contador)
+#     contador = contador + 1
+# #...
