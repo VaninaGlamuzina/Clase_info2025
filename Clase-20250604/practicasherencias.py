@@ -20,7 +20,7 @@ class Estudiante(Universidad, Carrera):
                Estudia la carrera de {self.especialidad} en la universidad {self.nombreUniversidad} """ )    
         
 
-# Instancia y Ejecucion
+# Instancia y Ejecucion.
 
 # Paso 1 Crear un estudiante
 estudiante1 = Estudiante("Catalina", "Ramirez", 32, "Universidad Nacional del Chaco", "Ingeniería en Sistemas")
